@@ -24,7 +24,7 @@ El código fuente se ha publicado "tal cual" según la última versión de la ap
 
 El código no está muy comentado, de hecho, apenas hay comentarios y la documentación es básica. En próximas revisiones del código intentaré aclarar algunas partes del código o quizás haga un tutorial en mi blog explicando paso a paso el funcionamiento de la aplicación.
 
-Básicamente debes saber que modificando el fichero HorariosActivity.java (línea 45) con la url donde hayas alojado el "parser" de la sección anterior, tienes más que suficiente para que la aplicación funcione.
+Básicamente debes saber que modificando el fichero HorariosActivity.java (línea 54) con la url donde hayas alojado el "parser" de la sección anterior, tienes más que suficiente para que la aplicación funcione.
 
 ~~~
 // URL completa al script que parsea la web de renfe para obtener los horarios
