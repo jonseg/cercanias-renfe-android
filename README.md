@@ -26,19 +26,20 @@ Básicamente debes saber que modificando el fichero HorariosActivity.java (líne
 String parser_url = "http://mipaginaweb.com/renfe/parser.php";   
 ~~~
 
-Puedes descargarte directamente el fichero .apk e instalar la aplicación en tu dispositivo Android directamente. *[Descargar fichero .apk de la aplicación Cercanías Renfe](http://jonsegador.com/cercanias/app/Renfe.apk)*
+Puedes descargarte directamente el fichero .apk e instalar la aplicación en tu dispositivo Android directamente.
+*[Descargar fichero .apk de la aplicación Cercanías Renfe](http://jonsegador.com/cercanias/app/Renfe.apk)*
 
 
 ## Screenshots ##
 
-[![Inicio](http://jonsegador.com/renfe/screenshots/inicio.png)](http://jonsegador.com/cercanias/screenshots/inicio.png)
-[![Horarios1](http://jonsegador.com/renfe/screenshots/horarios1.png)](http://jonsegador.com/cercanias/screenshots/horarios1.png)
-[![Horarios2](http://jonsegador.com/renfe/screenshots/horarios2.png)](http://jonsegador.com/cercanias/screenshots/horarios2.png)
+[![Inicio](http://jonsegador.com/cercanias/screenshots/inicio.png)](http://jonsegador.com/cercanias/screenshots/inicio.png)
+[![Horarios1](http://jonsegador.com/cercanias/screenshots/horarios1.png)](http://jonsegador.com/cercanias/screenshots/horarios1.png)
+[![Horarios2](http://jonsegador.com/cercanias/screenshots/horarios2.png)](http://jonsegador.com/cercanias/screenshots/horarios2.png)
 
 
 ## Autor ##
 
-Jon Segador <jonseg@gmail.com>
-Twitter : *[@jonseg](http://twitter.com/#!/jonseg)*
-Linkedin: *[http://es.linkedin.com/pub/jon-segador/11/685/602](http://es.linkedin.com/pub/jon-segador/11/685/602)*
-Blog    : *[http://jonsegador.com/](http://jonsegador.com/)*
+* Jon Segador <jonseg@gmail.com>
+* Twitter : *[@jonseg](http://twitter.com/#!/jonseg)*
+* Linkedin: *[http://es.linkedin.com/pub/jon-segador/11/685/602](http://es.linkedin.com/pub/jon-segador/11/685/602)*
+* Blog    : *[http://jonsegador.com/](http://jonsegador.com/)*
