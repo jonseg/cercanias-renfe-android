@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cercanías Renfe</string>
+    
+    <string name="station1_salida"><u>Salida</u></string> 
+    <string name="station2_llegada"><u>Llegada</u></string>
+    
+    <string name="tiempo"><u>Duración</u></string> 
+    <string name="linea_salida"><u>Línea</u></string>    
+    
+</resources>
