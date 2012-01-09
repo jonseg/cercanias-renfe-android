@@ -13,12 +13,17 @@ Si quieres saber más sobre este tema, puedes leerlo en mi blog:
 La aplicación se divide en dos partes:
 
 ## Parser ##
-Se encuentra en la carpeta "parser". Es el código fuente que debe ir en nuestro servidor web y es el que "lee" la web de Renfe para extraer los horarios. La aplicación Android realiza llamadas a este script php para obtener los horarios. Esta técnica es más conocida como "web scraping". Sería mucho más fácil que los datos estuvieran disponibles de forma libre a todo el mundo pero dudo que nadie en Renfe haya escuchado nunca nada sobre *[Open Data](http://en.wikipedia.org/wiki/Open_data)*.
+Se encuentra en la carpeta "parser". Es el código fuente que debe ir en nuestro servidor web y es el que "lee" la web de Renfe para extraer los horarios. La aplicación Android realiza llamadas a este script php para obtener los horarios.
+
+Esta técnica es más conocida como "web scraping". Sería mucho más fácil que los datos estuvieran disponibles de forma libre a todo el mundo pero dudo que nadie en Renfe haya escuchado nunca nada sobre *[Open Data](http://en.wikipedia.org/wiki/Open_data)*.
 
 ## Aplicación Android ##
 La encontraremos en la carpeta "android". Es el código fuente de la aplicación para Android. 
+
 El código fuente se ha publicado "tal cual" según la última versión de la aplicación. Puede contener errores y el código se puede optimizar y mejorar con total seguridad. Echa un vistazo al archivo LICENSE.
+
 El código no está muy comentado, de hecho, apenas hay comentarios y la documentación es básica. En próximas revisiones del código intentaré aclarar algunas partes del código o quizás haga un tutorial en mi blog explicando paso a paso el funcionamiento de la aplicación.
+
 Básicamente debes saber que modificando el fichero HorariosActivity.java (línea 45) con la url donde hayas alojado el "parser" de la sección anterior, tienes más que suficiente para que la aplicación funcione.
 
 ~~~
