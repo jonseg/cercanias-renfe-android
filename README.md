@@ -32,9 +32,9 @@ Puedes descargarte directamente el fichero .apk e instalar la aplicación en tu 
 
 ## Screenshots ##
 
-[![Inicio](http://jonsegador.com/cercanias/screenshots/inicio.png)](http://jonsegador.com/cercanias/screenshots/inicio.png)
-[![Horarios1](http://jonsegador.com/cercanias/screenshots/horarios1.png)](http://jonsegador.com/cercanias/screenshots/horarios1.png)
-[![Horarios2](http://jonsegador.com/cercanias/screenshots/horarios2.png)](http://jonsegador.com/cercanias/screenshots/horarios2.png)
+[![Inicio](http://jonsegador.com/cercanias/screenshots/inicio_thumb.png)](http://jonsegador.com/cercanias/screenshots/inicio.png)
+[![Horarios1](http://jonsegador.com/cercanias/screenshots/horarios1_thumb.png)](http://jonsegador.com/cercanias/screenshots/horarios1.png)
+[![Horarios2](http://jonsegador.com/cercanias/screenshots/horarios2_thumb.png)](http://jonsegador.com/cercanias/screenshots/horarios2.png)
 
 
 ## Autor ##
