@@ -746,13 +746,16 @@ public class MainActivity extends Activity{
         
         String current_year = "0";
         
-        if(current_year2.equals("2011")){
+        if(current_year2.equals("2012")){
         	current_year = "0";
         }
-        else if(current_year2.equals("2012")){
+        else if(current_year2.equals("2013")){
         	current_year = "1";
         }
-        else if(current_year2.equals("2013")){
+        else if(current_year2.equals("2014")){
+        	current_year = "2";
+        }
+        else if(current_year2.equals("2015")){
         	current_year = "2";
         }
         else{
